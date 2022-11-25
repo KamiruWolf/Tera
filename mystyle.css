@@ -1,0 +1,47 @@
+#kupa {
+  background-color: #18173b;
+  font-size:100px;
+  text-align: center;
+}
+
+h1 {
+  color: grey;
+}
+
+#fname{
+	background-color: grey;
+}
+
+#lname{
+	background-color: grey;
+}
+
+#rozmiar{
+	background-color: grey;
+}
+
+#waga{
+	background-color: grey;
+}
+
+nav {
+	background-color: #18173b;
+}
+
+#dupencja0 {
+	font-size: 40px;
+}
+
+#dupencja1 {
+	font-size: 40px;
+}
+
+#dupencja2 {
+	font-size: 40px;
+}
+
+#demo {
+	background-color: white;
+	font-size: 50px;
+	text-align: center;
+}
